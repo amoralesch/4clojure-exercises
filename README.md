@@ -1,2 +1,3 @@
-# 4clojure-exercises
-Solutions to 4clojure (https://4clojure.zenius.com/) katas
+# 4Clojure Exercises
+
+Solutions to [4Clojure](https://4clojure.zenius.com/) katas.
